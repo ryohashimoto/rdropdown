@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lucida Grande', Arial, Helvetica, sans-serif;
+}
+
+#loremMenu {
+    width: 320px;
+    height: 320px;
+    background-color: #eee;
+}
+
+#loremMenu h2 {
+    font-size: medium;
+}
+
+#loremMenu p {
+    font-size: small;
+}
